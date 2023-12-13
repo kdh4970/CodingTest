@@ -2,6 +2,6 @@
 
 | 순번 | Tag                          | 태그                | 문제집    | 총 문제 수 |
 | :--: | :--------------------------: | :-----------------: | :------:  |:------: |
-| 01 | Data Structure | 자료구조 | [바로가기](./DataStructure) | 6 |
+| 01 | Data Structure | 자료구조 | [바로가기](./DataStructure) | 9 |
 | 02 | Greedy | 탐욕법 | [바로가기](./Greedy) | 16 |
- 
+| 03 | Implementation |  | [바로가기](./Implementation) | 1 |
