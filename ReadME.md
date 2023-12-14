@@ -4,4 +4,4 @@
 | :--: | :--------------------------: | :-----------------: | :------:  |:------: |
 | 01 | Data Structure | 자료구조 | [바로가기](./DataStructure) | 10 |
 | 02 | Greedy | 탐욕법 | [바로가기](./Greedy) | 16 |
-| 03 | Implementation |  | [바로가기](./Implementation) | 1 |
+| 03 | Implementation | 구현 | [바로가기](./Implementation) | 1 |
