@@ -18,8 +18,3 @@
 | 13 | 21314 | <a href="https://www.acmicpc.net/problem/21314" target="_blank">민겸 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 | 14 | 1931 | <a href="https://www.acmicpc.net/problem/1931" target="_blank">회의실 배정</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 15 | 11000 | <a href="https://www.acmicpc.net/problem/11000" target="_blank">강의실 배정</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 16 | 13164 | <a href="https://www.acmicpc.net/problem/13164" target="_blank">행복 유치원</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 17 | 19598 | <a href="https://www.acmicpc.net/problem/19598" target="_blank">최소 회의실 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 18 | 2212 | <a href="https://www.acmicpc.net/problem/2212" target="_blank">센서</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 19 | 1092 | <a href="https://www.acmicpc.net/problem/1092" target="_blank">배</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 20 | 21758 | <a href="https://www.acmicpc.net/problem/21758" target="_blank">꿀 따기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
