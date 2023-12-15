@@ -8,16 +8,17 @@ data = input()
 
 res = 0
 stack = []
-for _ in range(len(data)):
-    if data[_] == "(":
-        stack.append(data[_])
-        prior = data[_]
+prior = ""
+for _ in data:
+    if _ == "(":
+        stack.append(_)
+        prior = _
     else:
-        if data[_-1] == "(":
+        if prior == "(":
             stack.pop()
             res += len(stack)
         else:
             stack.pop()
             res +=1
-        prior = data[_]
+        prior = _
 print(res)
