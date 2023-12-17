@@ -1,5 +1,7 @@
 # Data Structre (자료구조)  
 
+Keyword : Stack, Queue, Deque
+
 |          순번          |        문제 번호         |        문제 이름         |         난이도          |
 | :-----: | :-----: | :-----: | :-----: |
 | 00 | 10828 | <a href="https://www.acmicpc.net/problem/10828" target="_blank">스택</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
