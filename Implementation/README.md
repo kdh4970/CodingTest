@@ -12,8 +12,9 @@
 | 07 | 2752 | <a href="https://www.acmicpc.net/problem/2752" target="_blank">세수 정렬</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> |
 | 08 | 10808 | <a href="https://www.acmicpc.net/problem/10808" target="_blank">알파벳 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> |
 | 09 | 2480 | <a href="https://www.acmicpc.net/problem/2480" target="_blank">주사위 세개</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> |
-| x | 2562 | <a href="https://www.acmicpc.net/problem/2562" target="_blank">최댓값</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |
-
+| 10 | 2562 | <a href="https://www.acmicpc.net/problem/2562" target="_blank">최댓값</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |
+| 11 | 2163 | <a href="https://www.acmicpc.net/problem/2163" target="_blank">초콜릿 자르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
+| 12 | 1789 | <a href="https://www.acmicpc.net/problem/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 <!-- | 05 | 11508 | <a href="https://www.acmicpc.net/problem/11508" target="_blank">2+1 세일</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 | 06 | 11047 | <a href="https://www.acmicpc.net/problem/11047" target="_blank">동전 0</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 | 07 | 13305 | <a href="https://www.acmicpc.net/problem/13305" target="_blank">★주유소</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
