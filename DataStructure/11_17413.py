@@ -15,7 +15,6 @@ for idx,val in enumerate(S):
             stk=[]
     stk.append(val)
     
-
     if val == ">":
         res += "".join(stk)
         stk = []
