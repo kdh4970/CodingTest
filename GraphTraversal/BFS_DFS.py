@@ -11,6 +11,8 @@
 # + 2번의 이동가능 지점 탐색시 경계선을 탐색하지 않기 위한 조건 필요 (IndexError)
 # + 방문한 지점에 대해서는 다시 방문하지 않기 위한 조건 필요 (무한루프)
 # + 이동가능 목록을 스택으로 구현하면 DFS, 큐로 구현하면 BFS가 됨.  
+# BFS는 너비우선탐색으로, 이동가능 목록에서 가장 먼저 추가된 곳부터 탐색. 즉, 시작점과 가까운 부분부터
+# DFS는 깊이우선탐색으로, 이동가능 목록에서 먼곳부터 탐색. 즉, 한 줄기를 따라 쭉
 
 def search_and_update(map,curr,arr):
     rows = len(map)
@@ -29,7 +31,7 @@ def search_and_update(map,curr,arr):
     return arr
 
 
-def DFS(map:list, start, end=[]):
+def DFS(map:list, start, end):
     can_go = [start]
     while can_go:
         curr = can_go.pop(-1)

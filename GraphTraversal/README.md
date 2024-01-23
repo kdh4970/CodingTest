@@ -1,18 +1,17 @@
 # Graph Traversal (그래프 탐색)
 
-Keyword : BFS, DFS
-
+Keyword : BFS, DFS  
 
 |          순번          |        문제 번호         |        문제 이름         |         난이도          |
 | :-----: | :-----: | :-----: | :-----: |
 | 00 | 1926 | <a href="https://www.acmicpc.net/problem/1926" target="_blank">그림</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-
+| 01 | 2178 | <a href="https://www.acmicpc.net/problem/2178" target="_blank">미로 탐색</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 02 | 2667 | <a href="https://www.acmicpc.net/problem/2667" target="_blank">단지번호붙이기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 
 <!-- | 00 | <a href="https://www.acmicpc.net/problem/2606" target="_blank">2606</a> | <a href="https://www.acmicpc.net/problem/2606" target="_blank">바이러스</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/graph_traversal/2606">바로가기</a> |
 | 01 | <a href="https://www.acmicpc.net/problem/1260" target="_blank">1260</a> | <a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="./../solution/graph_traversal/1260">바로가기</a> |
 | 02 | <a href="https://www.acmicpc.net/problem/11725" target="_blank">11725</a> | <a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="./../solution/graph_traversal/11725">바로가기</a> |
 | 03 | <a href="https://www.acmicpc.net/problem/1325" target="_blank">1325</a> | <a href="https://www.acmicpc.net/problem/1325" target="_blank">효율적인 해킹</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/graph_traversal/1325">바로가기</a> |
-| 04 | <a href="https://www.acmicpc.net/problem/2178" target="_blank">2178</a> | <a href="https://www.acmicpc.net/problem/2178" target="_blank">미로 탐색</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/graph_traversal/2178">바로가기</a> |
 | 05 | <a href="https://www.acmicpc.net/problem/2667" target="_blank">2667</a> | <a href="https://www.acmicpc.net/problem/2667" target="_blank">단지번호붙이기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/graph_traversal/2667">바로가기</a> |
 | 06 | <a href="https://www.acmicpc.net/problem/16918" target="_blank">16918</a> | <a href="https://www.acmicpc.net/problem/16918" target="_blank">봄버맨</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/graph_traversal/16918">바로가기</a> |
 | 07 | <a href="https://www.acmicpc.net/problem/14940" target="_blank">14940</a> | <a href="https://www.acmicpc.net/problem/14940" target="_blank">쉬운 최단거리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/graph_traversal/14940">바로가기</a> |

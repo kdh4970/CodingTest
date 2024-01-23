@@ -6,4 +6,4 @@
 | 02 | Data Structure2 | 자료구조2 | [바로가기](./DataStructure2) | 8 |
 | 03 | Greedy | 탐욕법 | [바로가기](./Greedy) | 16 |
 | 04 | Implementation | 구현 | [바로가기](./Implementation) | 13 |
-| 05 | Graph Travelsal | 그래프 탐색 | [바로가기](./GraphTraversal) | 1 |
+| 05 | Graph Travelsal | 그래프 탐색 | [바로가기](./GraphTraversal) | 3 |
