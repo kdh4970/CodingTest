@@ -10,6 +10,7 @@ Keyword : BFS, DFS
 | 03 | 14940 | <a href="https://www.acmicpc.net/problem/14940" target="_blank">쉬운 최단거리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 04 | 7576 | <a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 05 | 7569 | <a href="https://www.acmicpc.net/problem/7569" target="_blank">토마토</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 06 | 16234 | <a href="https://www.acmicpc.net/problem/16234" target="_blank">★인구이동</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 <!-- | 00 | <a href="https://www.acmicpc.net/problem/2606" target="_blank">2606</a> | <a href="https://www.acmicpc.net/problem/2606" target="_blank">바이러스</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/graph_traversal/2606">바로가기</a> |
 | 01 | <a href="https://www.acmicpc.net/problem/1260" target="_blank">1260</a> | <a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="./../solution/graph_traversal/1260">바로가기</a> |
