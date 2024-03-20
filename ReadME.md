@@ -7,4 +7,4 @@
 | 03 | Greedy | 탐욕법 | [바로가기](./Greedy) | 16 |
 | 04 | Implementation | 구현 | [바로가기](./Implementation) | 13 |
 | 05 | Graph Travelsal | 그래프 탐색 | [바로가기](./GraphTraversal) | 8 |
-| 06 | Recursion | 재귀 | [바로가기](./Recursion) | 2 |
+| 06 | Recursion | 재귀 | [바로가기](./Recursion) | 3 |
