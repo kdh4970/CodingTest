@@ -9,3 +9,4 @@ Keyword : Recursion, Back Tracking, Divide & Conquer
 | 02 | 11729 | <a href="https://www.acmicpc.net/problem/11729" target="_blank">하노이 탑 이동 순서</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 03 | 1074 | <a href="https://www.acmicpc.net/problem/1074" target="_blank">Z</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 04 | 9663 | <a href="https://www.acmicpc.net/problem/9663" target="_blank">N-Queen</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 05 | 1182 | <a href="https://www.acmicpc.net/problem/1182" target="_blank">부분수열의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
