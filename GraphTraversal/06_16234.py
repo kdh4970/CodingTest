@@ -24,7 +24,7 @@ def bfs(x,y):
         for _ in range(4):
             temp_x = now_x + dx[_]
             temp_y = now_y + dy[_]
-            if not 0 <= temp_x < N or not 0 <= temp_y < N or visited[temp_x][temp_y] == 1:
+            if not 0 < temp_x < N or not 0 < temp_y < N or visited[temp_x][temp_y] == 1:
                 continue
             if L <= abs(board[now_x][now_y] - board[temp_x][temp_y]) <= R:
                 union.append((temp_x,temp_y))
