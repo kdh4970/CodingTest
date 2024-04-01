@@ -10,3 +10,4 @@ CodeTree
 | 03 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/arrange-operator" target="_blank">연산자 배치하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | Backtracking |
 | 04 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/unstable-moving-walk" target="_blank">붏안한 무빙워크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | Simulation |
 | 05 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold" target="_blank">토스트 계란틀</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | Simulation |
+| 06 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/min-of-hospital-distance" target="_blank">병원 거리 최소화하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | Backtracking |
