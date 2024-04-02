@@ -13,7 +13,7 @@ N,L,R = list(map(int,input().split()))
 board = [list(map(int,input().split())) for _ in range(N)]
 q = deque()
 dx = [-1,0,1,0] 
-dy = [0,1,0,-1]
+dy = [0,1,0,-1] 
 
 def bfs(x,y):
     q.append((x,y))
