@@ -13,3 +13,4 @@ CodeTree
 | 06 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/min-of-hospital-distance" target="_blank">병원 거리 최소화하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | Backtracking |
 | 07 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides" target="_blank">놀이기구 탑승</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | Simulation |
 | 08 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/rounding-eight-angle" target="_blank">돌아가는 팔각의자</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | Simulation |
+| 09 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/tree-tycoon" target="_blank">나무 타이쿤</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | Simulation |
