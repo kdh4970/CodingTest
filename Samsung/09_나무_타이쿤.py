@@ -5,8 +5,8 @@ rule_per_year = [list(map(int,input().split())) for _ in range(M)]
 pos = [(N-2,0),(N-2,1),(N-1,0),(N-1,1)]
 dr = [0,-1,-1,-1,0,1,1,1]
 dc = [1,1,0,-1,-1,-1,0,1]
-dcross_r = [-1,1,-1,1]
-dcross_c = [-1,-1,1,1]
+dcross_rs = [-1,1,-1,1]
+dcross_cs = [-1,-1,1,1]
 #1
 def move(rule):
     direction, num = rule
@@ -27,8 +27,8 @@ def inject():
     for idx in range(len(pos)):
         row,col = pos[idx]
         cnt = 0
-        for _ in range(4):
-            search_r, search_c = row + dcross_r[_], col + dcross_c[_]
+        for dcross_r,dcross_c in zip(dcross_rs,dcross_cs):
+            search_r, search_c = row + dcross_r, col + dcross_c
             if not 0 <= search_r <= N-1 or not 0 <= search_c <= N-1:
                 continue
             cnt += 1 if board[search_r][search_c] >= 1 else 0
