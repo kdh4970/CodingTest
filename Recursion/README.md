@@ -13,3 +13,4 @@ Keyword : Recursion, Back Tracking, Divide & Conquer
 | 06 | 17478 | <a href="https://www.acmicpc.net/problem/17478" target="_blank">재귀함수가 뭔가요?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 | 07 | 1780 | <a href="https://www.acmicpc.net/problem/1780" target="_blank">종이의 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 | 08 | 2630 | <a href="https://www.acmicpc.net/problem/2630" target="_blank">색종이 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 09 | 1992 | <a href="https://www.acmicpc.net/problem/1992" target="_blank">쿼드트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |

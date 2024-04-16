@@ -1,3 +1,4 @@
+# 쿼드 트리 - 분할정복
 N = int(input())
 image = []
 res = ""
