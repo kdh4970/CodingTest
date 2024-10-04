@@ -1,4 +1,4 @@
-### Attempt 2 : 24.10.02
+### Attempt 2 : 24.10.04
 ### Time : 1313 ~ 1319 (6m)
 
 # arr에 여는괄호 있고, 다음 입력이 닫는괄호면 arr pop 후 continue
