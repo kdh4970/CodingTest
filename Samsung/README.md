@@ -15,3 +15,4 @@ CodeTree
 | 08 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/rounding-eight-angle" target="_blank">돌아가는 팔각의자</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | Simulation |
 | 09 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/tree-tycoon" target="_blank">나무 타이쿤</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | Simulation |
 | 10 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/autonomous-driving" target="_blank">자율주행 자동차</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | Simulation |
+| 11 | <a href="https://www.codetree.ai/training-field/frequent-problems/problems/matrix-number-play" target="_blank">격자 숫자 놀이</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | Simulation |
