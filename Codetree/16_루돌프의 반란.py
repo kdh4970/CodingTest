@@ -203,6 +203,7 @@ def go_santa():
 
 for turn in range(M):
     go_rudolph()
+    breakpoint()
     # print_positions()
     go_santa()
     # print_positions()
