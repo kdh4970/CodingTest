@@ -41,3 +41,4 @@
 | 11 | LV2 | N개의 최소공배수 | Python |
 | 12 | LV2 | 영어 끝말잇기 | Python |
 | 13 | LV2 | 귤 고르기 | Python |
+| 14 | LV2 | 예상 대진표 | Python |
