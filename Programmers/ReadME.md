@@ -58,3 +58,8 @@
 | 23 | LV2 | 기능개발 | Python |
 | 24 | LV2 | [1차]캐시 | Python |
 | 25 | LV2 | 하노이의 탑 | Python |
+| 26 | LV2 | 튜플 | Python |
+| 27 | LV2 |  | Python |
+| 28 | LV2 |  | Python |
+| 29 | LV2 |  | Python |
+| 30 | LV2 |  | Python |
