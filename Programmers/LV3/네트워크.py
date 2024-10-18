@@ -23,3 +23,4 @@ def solution(n, computers):
             dfs(_)
             answer +=1
     return answer
+    
