@@ -11,3 +11,7 @@
 | 07 | LV1 | 주행거리 비교하기 | Python |
 | 08 | LV1 | A+B | Python |
 | 09 | LV1 | Tren del Fin del Mundo | Python |
+| 10 | LV1 | 나무 출력 | Python |
+| 11 | LV1 | 나무 심기 | Python |
+| 12 | LV2 | 나무 공격 | Python |
+| 13 | LV2 | 전광판 | Python |
