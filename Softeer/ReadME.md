@@ -24,4 +24,5 @@
 | 20 | LV2 | 장애물 인식 프로그램 | Python | 
 | 21 | LV2 | 비밀 메뉴 | Python | 
 | 22 | LV2 | 진정한 효도 | Python | 
-| 23 | LV2 | GBC(풀이 중) | Python | 
+| 23 | LV2 | GBC | Python | 
+| 24 | LV2 | X marks the Spot | Python | 
