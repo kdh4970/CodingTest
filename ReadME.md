@@ -11,7 +11,7 @@
 | :--: | :--------------------------: | :-----------------: | :------:  |:------: |
 | 01 | Codetree | 코드트리(삼성 기출문제) | [바로가기](./Codetree) | 17 |
 | 02 | SWEA | 삼성 SW Expert Academy | [바로가기](./SWEA) | 3 |
-| 03 | Programmers | 프로그래머스 | [바로가기](./Programmers) | 60 |
+| 03 | Programmers | 프로그래머스 | [바로가기](./Programmers) | 69 |
 | 04 | Softeer | 현대자동차그룹 코딩테스트 | [바로가기](./Softeer) | 23 |
 | 04 | Data Structure | 자료구조 | [바로가기](./DataStructure) | 15 |
 | 05 | Data Structure2 | 자료구조2 | [바로가기](./DataStructure2) | 8 |
